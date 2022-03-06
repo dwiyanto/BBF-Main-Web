@@ -1,0 +1,65 @@
+  [
+    {
+      "id": 1,
+      "name" :  "Habitat For Humanity",
+      "desc" : 
+        "",
+      "image" :  "/img/mitra/habitat-for-humanity.png"
+    },
+  
+    {
+      "id": 2,
+      "name" :  "Hallo Teman Baik",
+      "desc" : 
+        "",
+      "image" :  "/img/mitra/hello-teman-baik.png"
+    },
+    
+    {
+      "id": 3,
+      "name" :  "Inti",
+      "desc" : 
+        "",
+      "image" :  "/img/mitra/inti.jpg"
+    },
+    
+    {
+      "id": 4,
+      "name" :  "Kerhen",
+      "desc" : 
+        "",
+      "image" :  "/img/mitra/kerhen.png"
+    },
+    
+    {
+      "id": 5,
+      "name" :  "Perkumpulan Marga Huang",
+      "desc" : 
+        "",
+      "image" :  "/img/mitra/perkumpulan-marga-huang.jpg"
+    },
+    
+    {
+      "id": 6,
+      "name" :  "Surabaya",
+      "desc" : 
+        "",
+      "image" :  "/img/mitra/surabaya.png"
+    },
+    
+    {
+      "id": 7,
+      "name" :  "The Sumba Foundation",
+      "desc" : 
+        "",
+      "image" :  "/img/mitra/the-sumba-foundation.png"
+    },
+    
+    {
+      "id": 8,
+      "name" :  "Tree of Heart",
+      "desc" : 
+        "",
+      "image" :  "/img/mitra/tree-of-heart.png"
+    }
+  ]

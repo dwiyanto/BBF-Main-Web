@@ -1,0 +1,114 @@
+  [
+    {
+      "id": 1,
+      "name" :  "Anugrah Tri Makmur, PT",
+      "desc" : 
+        "",
+      "image" :  "/img/donatur/anugrah-tri-makmur-pt.jpg"
+    },
+  
+    {
+      "id": 2,
+      "name" :  "Barindo",
+      "desc" : 
+        "",
+      "image" :  "/img/donatur/barindo.jpg"
+    },
+    
+    {
+      "id": 3,
+      "name" :  "Citra Potinara Maju, PT",
+      "desc" : 
+        "",
+      "image" :  "/img/donatur/citra-potinara-maju-pt.jpg"
+    },
+    
+    {
+      "id": 4,
+      "name" :  "Daun Mas Media Husada",
+      "desc" : 
+        "",
+      "image" :  "/img/donatur/daun-mas-media-husada.jpg"
+    },
+    
+    {
+      "id": 5,
+      "name" :  "hello.library",
+      "desc" : 
+        "",
+      "image" :  "/img/donatur/hello.library.png"
+    },
+    
+    {
+      "id": 6,
+      "name" :  "Kooleet",
+      "desc" : 
+        "",
+      "image" :  "/img/donatur/kooleet.png"
+    },
+    
+    {
+      "id": 7,
+      "name" :  "<a href='https://Kopibara.id'>Kopibara<a/>",
+      "desc" : 
+        "",
+      "image" :  "/img/donatur/kopibara.png"
+    },
+    
+    {
+      "id": 8,
+      "name" :  "Mahakam Makmur Lestari, PT",
+      "desc" : 
+        "",
+      "image" :  "/img/donatur/mahakam-makmur-lestari-pt.png"
+    },
+    
+    {
+      "id": 9,
+      "name" :  "Mbt Steel",
+      "desc" : 
+        "",
+      "image" :  "/img/donatur/mbt-steel.png"
+    },
+    
+    {
+      "id": 10,
+      "name" :  "Mitra Bara Abadi, PT",
+      "desc" : 
+        "",
+      "image" :  "/img/donatur/mitra-bara-abadi-pt.png"
+    },
+    
+    {
+      "id": 11,
+      "name" :  "Monica Gunawan",
+      "desc" : 
+        "",
+      "image" :  "/img/donatur/monica-gunawan.png"
+    },
+    
+    {
+      "id": 12,
+      "name" :  "Olivia Stuff",
+      "desc" : 
+        "",
+      "image" :  "/img/donatur/olivia-stuff.png"
+    },
+    
+    {
+      "id": 13,
+      "name" :  "Rajawali Bara Makmur, PT",
+      "desc" : 
+        "",
+      "image" :  "/img/donatur/rajawali-bara-makmur-pt.png"
+    },
+    
+    {
+      "id": 14,
+      "name" :  "Torang perumah",
+      "desc" : 
+        "",
+      "image" :  "/img/donatur/torang-perumah.png"
+    }
+    
+  ]
