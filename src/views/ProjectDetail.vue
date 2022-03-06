@@ -4,7 +4,7 @@
       <div id="content-image" class="col-span-12 md:col-span-4">
         <img
           class="bg-gray-300 w-full"
-          src="/img/project/menanam-pohon.jpg"
+          :src="`${cdnUrl}/${project.image}`"
           :alt="project.name"
         />
       </div>
@@ -112,7 +112,8 @@ export default {
   },
   data() {
     return {
-      isOpen: false
+      isOpen: false,
+      cdnUrl: process.env.VUE_APP_CDN_URL
     };
   },
   async created() {

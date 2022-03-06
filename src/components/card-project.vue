@@ -9,7 +9,7 @@
     >
       <img
         class="rounded-t-lg bg-gray-200"
-        src="/img/project/menanam-pohon.jpg"
+        :src="`${cdnUrl}/${item.image}`"
         :alt="item.name"
       />
       <div class="p-2">
@@ -31,6 +31,11 @@ export default {
         return null;
       }
     }
+  },
+  data() {
+    return {
+      cdnUrl: process.env.VUE_APP_CDN_URL
+    };
   }
 };
 </script>
